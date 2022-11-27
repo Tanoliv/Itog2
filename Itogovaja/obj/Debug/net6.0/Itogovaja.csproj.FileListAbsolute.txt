@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\bin\Debug\net6.0\Itogovaja.exe
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\bin\Debug\net6.0\Itogovaja.deps.json
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\bin\Debug\net6.0\Itogovaja.runtimeconfig.json
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\bin\Debug\net6.0\Itogovaja.dll
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\bin\Debug\net6.0\Itogovaja.pdb
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.dll
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\refint\Itogovaja.dll
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.pdb
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\Itogovaja.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Itog1\Itogovaja\obj\Debug\net6.0\ref\Itogovaja.dll
